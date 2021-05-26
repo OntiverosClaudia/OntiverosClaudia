@@ -8,11 +8,11 @@ This is a ✨ _special_ ✨ repository.
 ## :octocat: Github stats  ##
 
 <a href="https://github.com/OntiverosClaudia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OntiverosClaudia&theme=buefy&show_icons=true" alt="OntiverosClaudia GitHub Stats" width="410px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OntiverosClaudia&theme=highcontrast&show_icons=true" alt="OntiverosClaudia GitHub Stats" width="410px"/>
 </a>
 
 <a href="https://github.com/OntiverosClaudia">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OntiverosClaudia&theme=buefy&layout=compact" width="410px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OntiverosClaudia&theme=highcontrast&layout=compact" width="410px"/>
 </a>
 
 <!--
